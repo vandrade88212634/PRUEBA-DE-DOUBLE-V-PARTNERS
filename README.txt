@@ -7,7 +7,7 @@ En la carpeta tickets PUBLICAR esta el publicado
 
 La base de datos es MySql  el dump esta en la carpeta copia base de datos
 
-dentro de C
+dentro de la carpeta "Copia base de datos"
 
 
 
@@ -31,7 +31,8 @@ Ejemplo:
 http://LOCALHOST:5001/api/ticket
 
 
-
+El archuivo de conexion a la base de datosa esta en la carpeta "tickest PUBLICAR" el archivo "appsettings.json"
+se puede editar con notepad para editar  el usuario y la contraseña
 
 
 
